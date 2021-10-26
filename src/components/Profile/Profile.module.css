@@ -55,6 +55,7 @@
 
 .label {
 	font-size: 12px;
+	text-transform: capitalize;
 	color: #84909d;
 }
 
